@@ -1,29 +1,40 @@
 [<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
-# Lorem ipsum: Study
+# Introduction to Git: Study
 
 Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along with the provided resources to research and answer the [questions below](#questions).
 
-## Required Reading
+## Required Watching
 
-- [Lorem ipsum dolor sit amet](#)
+- [What is Version Control?](https://www.youtube.com/watch?v=xQujH0ElTUg)
+- [Git It? How to use Git and Github](https://www.youtube.com/watch?v=HkdAHXoRtos)
+
+## Recommended Reading
+
+- [Git Handbook](https://guides.github.com/introduction/git-handbook/) - 10 minute read
 
 ## Optional Reading
 
-- [Lorem ipsum dolor sit amet](#)
-
+- [What is version control?](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
 
 ## Questions
 
-1. Lorem ipsum dolor sit amet
+1. What are the benefits of using source control?
 
     ```
     Please write your answer here.
     ```
 
-1. Write an example Lorem ipsum dolor sit amet:
+1. What is the difference between Git and GitHub?
 
-    ```js
-    /* Your Answer */
+    ```
+    Please write your answer here.
+    ```
+
+1. What are the benefits of using branches?
+
+    ```
+    Please write your answer here.
     ```
 
 1. Using a "Fist to Five", what is your comfort and clarity level?
