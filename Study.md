@@ -22,7 +22,7 @@ Use [DuckDuckGo](https://duckduckgo.com/) or your preferred search engine along 
 1. What are the benefits of using source control?
 
     ```
-    Please write your answer here.
+    Collaboration
     ```
 
 1. What is the difference between Git and GitHub?
